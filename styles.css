@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    position: relative;
+}
+
+.treasureMap {
+    position: absolute;
+}
+
+.treasure {
+    position: absolute;
+    display: none;
+}
+
